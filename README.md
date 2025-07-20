@@ -16,4 +16,5 @@ git clone https://github.com/2861330454/getnewpidforlinux.git
 <img width="1819" height="286" alt="image" src="https://github.com/user-attachments/assets/1d9e19d0-f6a9-4245-b225-eda9ee8660ca" />
 
 在pininfo.txt文件查看已经存在的进程
-![Uploading image.png…]()
+
+<img width="1780" height="232" alt="image" src="https://github.com/user-attachments/assets/13bc7d56-9d05-4631-ae5b-ebc38336930c" />
